@@ -1,4 +1,4 @@
 # RepetitionOfStyles
 
 
-https://simple-repetition-of-styles.netlify.app/
+https://simple-repetition-of-styles-dashboard.netlify.app/
